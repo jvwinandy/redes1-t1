@@ -1,4 +1,4 @@
-# Simulation of a FTP connection with two machines connected by a crossover cable using raw sockets and the sliding protocol.
+# Simulation of a FTP connection with two machines connected by a crossover cable using raw sockets and the sliding window protocol.
 Project made for the Networking 1 course of the UFPR's Bachelor in Computer Science.
 
 For the connection to work the device must be changed to the network device that makes the connection.
